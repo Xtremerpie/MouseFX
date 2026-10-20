@@ -30,3 +30,6 @@ STOP / UNINSTALL
 
 NOTES
 First release; not tested on your specific PC. It may not display on the Windows lock screen, UAC secure desktop, or some protected full-screen apps. Python 3.12/3.13 may be easier if your Python 3.14 cannot install a compatible PySide6 wheel.
+
+INFO
+- Made by Xtremerpie
